@@ -1,5 +1,4 @@
 <? xml version = ' 1.0 ' standalone = ' yes ' ?>
 < server >
 < nama server  = " RPV 01 " ca = " 0 " benua_code = " ID " country = " 01 " country_code = " ID " ip = " 51.79.159.195 " port = " 64738 " region = " RPV regional " url = " http : //radioputra.romzi.online " token = "" />  
-< nama server  = " RPV 02 " ca = " 0 " benua_code = " ID " country = " 02 " country_code = " ID " ip = " 202.157.177.180 " port = " 64739 " region = " RPV regional " url = " http : //radioputra.romzi.online" token = "" />     
-</ server >
+</server>
