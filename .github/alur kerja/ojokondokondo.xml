@@ -1,7 +1,6 @@
 <? xml version = ' 1.0 ' standalone = ' yes ' ?>
 < server >
-< nama server  = " SERVER 01 " ca = " 0 " benua_code = " ID " country = " 01 " country_code = " ID " ip = " 144.76.73.12 " port = " 42466 " region = " Rakomnet regional " url = " http : //mumble-de.cleanvoice.com " token = "" />         
-< nama server  = " SERVER 02 " ca = " 0 " benua_code = " ID " country = " 02 " country_code = " ID " ip = " 144.76.73.12 " port = " 43077 " region = " Rakomnet regional " url = " http : //mumble-de.cleanvoice.com " token = "" />         
-< nama server  = " SERVER 03 " ca = " 0 " benua_code = " ID " country = " 03 " country_code = " ID " ip = " 144.76.73.12 " port = " 39891 " region = " Rakomnet regional " url = " http : //mumble-de.cleanvoice.com " token = "" />         
-< nama server  = " SERVER 04 " ca = " 0 " benua_code = " ID " country = " 01 " country_code = " ID " ip = " 144.76.73.12 " port = " 42464 " region = " Rakomnet regional " url = " http : //mumble-de.cleanvoice.com " token = "" />         
+< nama server  = " RPV 01 " ca = " 0 " benua_code = " ID " country = " 02 " country_code = " ID " ip = " 51.79.159.195 " port = " 64738 " region = " RPV regional " url = " http : //radiioputra.romzi.online " token = "" />  
+< nama server  = " RPV 02 " ca = " 0 " benua_code = " ID " country = " 01 " country_code = " ID " ip = " 202.157.177.180 " port = " 64739 " region = " RPV regional " url = " http : //202.157.177.180 " token = "" />         
+      
 </ server >
