@@ -1,5 +1,6 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
 <server name="RADIO PUTRA VIRTUAL" ca="0" continent_code="ID" country="01" country_code="ID" ip="51.79.159.195" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
+<server name="RADIO KOMUNIKASI INTERNET" ca="0" continent_code="ID" country="01" country_code="ID" ip="164.132.3.62" port="45962" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 </server>
 
