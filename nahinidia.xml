@@ -3,6 +3,6 @@
 <server name="SERVER UMUM RPV" ca="0" continent_code="ID" country="01" country_code="ID" ip="51.79.159.195" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
 <server name="SERVER ADMIN RVP" ca="0" continent_code="ID" country="02" country_code="ID" ip="198.24.160.150" port="45962" region="Rakomnet regional" url="mumble-us.cleanvoice.com" token=""/>
 <server name="SERVER KOMUNITAS RPV" ca="0" continent_code="ID" country="03" country_code="ID" ip="198.24.160.150" port="45962" region="Rakomnet regional" url="mumble-us.cleanvoice.com" token=""/>
-</server>
+</servers>
   
 
