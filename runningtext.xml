@@ -1,1 +1,2 @@
-<marquee direction="left" scrollamount="10"> Tulisan berjalan ke kiri </marquee><br />
+<?xml version='1.0' standalone='yes'?>
+<marquee direction="left" scrollamount="10"> Tulisan berjalan ke kiri </marquee>
