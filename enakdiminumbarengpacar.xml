@@ -2,4 +2,6 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
 <server name="KHUSUS ADMIN" ca="0" continent_code="ID" country="01" country_code="ID" ip="164.132.3.62" port="46329" region="NUSANTARA" url="http://mb.puma-network.net" token=""/>
+<server name="MAS KUNTET" ca="0" continent_code="ID" country="02" country_code="ID" ip="164.132.3.62" port="46129" region="bems" url="http://mb.puma-network.net" token=""/>
+<server name="KOPI IRENG" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45916" region="bems" url="http://mb.puma-network.net" token=""/>
 </servers>
