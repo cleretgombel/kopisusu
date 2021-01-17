@@ -1,3 +1,7 @@
-mumble-us.cleanvoice.com port 33513 utama👆
-mumble-us.cleanvoice.com port 33544 VIP
-Ngene ta mas
+<?xml version='1.0' standalone='yes'?> 
+<servers> 
+<server name="SERVER VIP" ca="0" continent_code="ID" country="09" country_code="ID" ip="198.24.160.150" port="33544" region="briker" url="http://mumble-us.cleanvoice.com" token=""/>
+</servers>
+
+ 
+
