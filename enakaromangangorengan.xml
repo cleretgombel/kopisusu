@@ -1,9 +1,8 @@
 <?xml version='1.0' standalone='yes'?><servers>
 <server name="🏠 DIGITAL RADIO ONLINE" ca="0" continent_code="ID" country="01" country_code="ID" ip="103.52.114.33" port="64738"region="indonesia" url="http://rwt-nusantara.blogspot.com" token=""/>
-<server name="🏠 BRIKER INDONESIA" ca="0" continent_code="ID" country="02" country_code="ID" ip="198.24.160.150" port="33513" region="indonesia" url="http://rwt-nusantara.blogspot.com" token=""/>
-<server name="🏠 RADIO MODULASI INDONESIA" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="52552"  region="indonesia" url="http://rwt-nusantara.blogspot.com" token=""/>
-<server name="🏠 TLOGO PLOSO INDONESIA BERSATU" ca="0" continent_code="ID" country="04" country_code="ID" ip="198.24.160.150" port="33544" region="indonesia" url="http://rwt-nusantara.blogspot.com" token=""/>
-<server name="🏠 RDPV" ca="0" continent_code="ID" country="03" country_code="ID" ip="198.24.160.150" port="34267" region="indonesia" url="http://rwt-nusantara.blogspot.com" token=""/>
+<server name="🏠 RAPI TANJUNG PINANG" ca="0" continent_code="ID" country="02" country_code="ID" ip="106.0.48.134" port="64738" region="indonesia" url="http://rwt-nusantara.blogspot.com" token=""/>
+<server name="🏠 IKN PRO SATU INDONESIA" ca="0" continent_code="ID" country="05" country_code="ID" ip="139.99.45.174" port="64738  region="indonesia" url="http://rwt-nusantara.blogspot.com" token=""/>
+<server name="🏠 DIGITAL RADIO KOMUNIKASI" ca="0" continent_code="ID" country="04" country_code="ID" ip="103.189.234.187" port="23456" region="indonesia" url="http://rwt-nusantara.blogspot.com" token=""/>
 </servers>
 
 
