@@ -2,7 +2,9 @@
 <servers>
 <server name="🏠 DIGITAL RADIO ONLINE" ca="0" continent_code="ID" country="01" country_code="ID" ip="103.52.114.33" port="64738"region="indonesia" url="http://rwt-nusantara.blogspot.com" token=""/>
 <server name="🏠 RAPI TANJUNG PINANG" ca="0" continent_code="ID" country="02" country_code="ID" ip="106.0.48.134" port="64738" region="indonesia" url="http://rwt-nusantara.blogspot.com" token=""/>
+<server name="🏠 IKN PRO SATUINDONESIA" ca="0" continent_code="ID" country="02" country_code="ID" ip="139.99.45.174" port="64738" region="indonesia" url="http://rwt-nusantara.blogspot.com" token=""/>
 </servers>
+
 
 
 
